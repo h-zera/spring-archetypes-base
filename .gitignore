@@ -174,3 +174,5 @@ pom.xml.versionsBackup
 **/requirements.lock
 **/charts/*.tgz
 **/charts/**/*.tgz
+
+./env/*
