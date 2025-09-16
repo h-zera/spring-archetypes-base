@@ -175,4 +175,4 @@ pom.xml.versionsBackup
 **/charts/*.tgz
 **/charts/**/*.tgz
 
-./env/*
+/env/*
