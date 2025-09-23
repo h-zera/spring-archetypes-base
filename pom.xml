@@ -7,6 +7,27 @@
     <version>0.0.1</version>
     <packaging>pom</packaging>
     <name>base-archetype</name>
+    <description>Spring Boot HZera microservices base archetype with Hex DDD architecture</description>
+    <url>https://github.com/h-zera/spring-archetypes-base</url>
+
+    <developers>
+        <developer>
+            <name>David Alejandro Castillo Prieto</name>
+            <email>davcast2000@gmail.com</email>
+            <organization>HZera</organization>
+            <organizationUrl>https://www.h-zera.com</organizationUrl>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/h-zera/spring-archetypes-base</url>
+    </scm>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
